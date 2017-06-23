@@ -14,7 +14,7 @@
   "devDependencies": {
     "@glimmer/application": "^0.6.0",
     "@glimmer/application-pipeline": "^0.7.3",
-    "@glimmer/blueprint": "^0.2.1",
+    "@glimmer/blueprint": "^0.4.0",
     "@glimmer/resolver": "^0.3.0",
     "broccoli-asset-rev": "^2.5.0",
     "ember-cli": "^2.14.0-beta.2",
